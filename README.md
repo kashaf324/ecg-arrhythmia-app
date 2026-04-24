@@ -23,6 +23,7 @@ This project aims to:
 ## Dataset
 
 This project uses ECG data from the **MIT-BIH Arrhythmia Dataset (PhysioNet)**.
+link: "https://www.kaggle.com/datasets/sadmansakib7/ecg-arrhythmia-classification-dataset?select=MIT-BIH+Arrhythmia+Database.csv"
 
 ### Key characteristics:
 - Multi-class classification problem
