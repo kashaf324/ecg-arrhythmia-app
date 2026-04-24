@@ -1,11 +1,11 @@
-# 🫀 ECG Arrhythmia Classification System
+# ECG Arrhythmia Classification System
 
 An AI-powered web application for detecting cardiac arrhythmias using machine learning. This project uses ECG feature data to classify heartbeats into normal and abnormal categories with real-time predictions via an interactive Streamlit dashboard.
 
 ---
 
 ## Live Demo
-(Add your Streamlit link here after deployment)
+"https://ecg-arrhythmia-app-xxwbc8j2so2yf5chp2t9pg.streamlit.app/"
 
 ---
 
